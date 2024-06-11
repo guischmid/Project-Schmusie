@@ -1,2 +1,2 @@
-# Project-Schmusie
+# Project SMU
 work in Progress
