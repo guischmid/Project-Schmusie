@@ -1,4 +1,4 @@
-Here's a draft for a `README.md` file for your GitHub repository for the app called SMU:
+**This Repository is WIP and just hobby project!**
 
 ---
 
